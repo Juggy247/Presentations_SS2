@@ -43,36 +43,36 @@ Lack of test data is still one of our main challenges. When scanning for phishin
 # Our current Stage
 
 Homepage
-![Alt text](Homepage1.png)
+![Alt text](images/Homepage1.png)
 
 We test with https://github.com
-![Alt text](Homepage2.png)
+![Alt text](images/Homepage2.png)
 
 Report Result 
-![Alt text](Report.png)
+![Alt text](images/Report.png)
 
 More detailed Report Result 
-![Alt text](Detailreport1.png)
-![Alt text](Detailreport2.png)
-![Alt text](Detailreport3.png)
+![Alt text](images/Detailreport1.png)
+![Alt text](images/Detailreport2.png)
+![Alt text](images/Detailreport3.png)
 
 AdminPanel: ***We have created an admin panel to better manage our application and database. Basically, we want to control and perform CRUD operations on TLKs, keywords, malicious websites, and brands***
-![Alt text](adminpanel1.png)
+![Alt text](images/adminpanel1.png)
 
 ***Suspious TLDs***
-![Alt text](adminpanel2.png)
+![Alt text](images/adminpanel2.png)
 
 ***Brands***
-![Alt text](adminpanel3.png)
+![Alt text](images/adminpanel3.png)
 
 ***Blacklisted Domain***
-![Alt text](adminpanel4.png)
+![Alt text](images/adminpanel4.png)
 
 ***Suspious Keywords***
-![Alt text](adminpanel5.png)
+![Alt text](images/adminpanel5.png)
 
 ***Import Feature***
-![Alt text](adminpanel6.png)
+![Alt text](images/adminpanel6.png)
 
 # Some of our Solutions to our Problems
 
