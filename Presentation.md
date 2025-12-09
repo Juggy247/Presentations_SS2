@@ -42,6 +42,8 @@ Lack of test data is still one of our main challenges. When scanning for phishin
 
 # Our current Stage
 
+![Alt text](Presentations_SS2/Homepage1.png)
+
 
 # Some of our Solutions to our Problems
 
